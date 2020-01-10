@@ -1,2 +1,4 @@
 # Management201
-Management docs for things
+Management docs and cheat-sheets for less common events.
+
+
